@@ -1,5 +1,5 @@
 ## PROJECT UAS LARAVEL 
-## TOPIK : Member KARTU AEON
+## TOPIK : MEMBER KARTU AEON
 
 ## Nama Anggota Kelompok
 - Hafid Nurmajid (4521210055)
