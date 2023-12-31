@@ -1,9 +1,10 @@
-PROJECT UAS LARAVEL 
-TOPIK : Member KARTU AEON
+## PROJECT UAS LARAVEL 
+## TOPIK : Member KARTU AEON
 
-Nama Anggota Kelompok : - Hafid Nurmajid (4521210055)
-                        - Hafiyan Sayidan (4521210074)
-                        - Muhammad Irfan (4521210086)
+## Nama Anggota Kelompok
+- Hafid Nurmajid (4521210055)
+- Hafiyan Sayidan (4521210074)
+- Muhammad Irfan (4521210086)
 
 ## Tentang Aplikasi
 Aplikasi web member aeon adalah aplikasi yang digunakan untuk mengelola transaksi member yang dilakukan oleh kasir. Aplikasi web ini memiliki 2 aktor yaitu adminintrator dan kasir. 
